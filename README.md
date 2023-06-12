@@ -10,4 +10,4 @@ This is a video game weapon store app that allows gamers to buy weapons for thei
 - Get details of a specific weapon
 - Delete a weapon
 - Update a weapon
-# warriorChoice
+
