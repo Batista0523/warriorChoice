@@ -1,0 +1,17 @@
+{
+  "name": "warriorchoice",
+  "version": "1.0.0",
+  "description": "Buy the right weapons for your warrior",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Elisaul Batista",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1"
+  }
+}

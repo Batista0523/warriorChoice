@@ -1,0 +1,42 @@
+[
+    {
+        "name": "darksword",
+        "priceInCents": 1000,
+        "inStock": true,
+        "uniquePro": "stronger at night",
+        "damage": "130 HP",
+        "stronger agains": "day's dragons",
+        "weight": "28 lbs",
+        "id": "23ERT"
+    },
+    {
+        "name": "sunsword",
+        "priceInCents": 1300,
+        "inStock": false,
+        "uniquePro": "stronger at day",
+        "damage": "150 HP",
+        "stronger agains": "night's dragons",
+        "weight": "30 lbs",
+        "id": "245RT"
+    },
+    {
+        "name": "firesword",
+        "priceInCents": 1990,
+        "inStock": true,
+        "uniquePro": "fire",
+        "damage": "130 HP",
+        "stronger agains": "vegan dragons",
+        "weight": "34 lbs",
+        "id": "333RT"
+    },
+    {
+        "name": "watersword",
+        "priceInCents": 1090,
+        "inStock": false,
+        "uniquePro": "water",
+        "damage": "170 HP",
+        "stronger agains": "fire dragons",
+        "weight": "36 lbs",
+        "id": "2567T"
+    }
+]
